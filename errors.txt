@@ -1,0 +1,275 @@
+errors:
+[{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"severity": 8,
+	"message": "The name `ContractAddress` is defined multiple times.",
+	"startLineNumber": 71,
+	"startColumn": 9,
+	"endLineNumber": 71,
+	"endColumn": 24
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"severity": 8,
+	"message": "Identifier not found.",
+	"startLineNumber": 73,
+	"startColumn": 29,
+	"endLineNumber": 73,
+	"endColumn": 39
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"severity": 8,
+	"message": "Identifier not found.",
+	"startLineNumber": 73,
+	"startColumn": 41,
+	"endLineNumber": 73,
+	"endColumn": 55
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"severity": 8,
+	"message": "Identifier not found.",
+	"startLineNumber": 73,
+	"startColumn": 57,
+	"endLineNumber": 73,
+	"endColumn": 72
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"severity": 8,
+	"message": "Type annotations needed. Failed to infer ?14.",
+	"startLineNumber": 75,
+	"startColumn": 5,
+	"endLineNumber": 75,
+	"endColumn": 15
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"severity": 8,
+	"message": "Invalid drop trait implementation, Candidate impl core::starknet::storage::storage_base::StorageBaseDrop::<?0> has an unused generic parameter.",
+	"startLineNumber": 75,
+	"startColumn": 5,
+	"endLineNumber": 75,
+	"endColumn": 15
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"severity": 8,
+	"message": "Invalid copy trait implementation, Candidate impl core::starknet::storage::storage_base::StorageBaseCopy::<?0> has an unused generic parameter.",
+	"startLineNumber": 75,
+	"startColumn": 5,
+	"endLineNumber": 75,
+	"endColumn": 15
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"severity": 8,
+	"message": "Type not found.",
+	"startLineNumber": 84,
+	"startColumn": 22,
+	"endLineNumber": 84,
+	"endColumn": 25
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"severity": 8,
+	"message": "Type not found.",
+	"startLineNumber": 85,
+	"startColumn": 22,
+	"endLineNumber": 85,
+	"endColumn": 25
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"severity": 8,
+	"message": "Type not found.",
+	"startLineNumber": 86,
+	"startColumn": 24,
+	"endLineNumber": 86,
+	"endColumn": 27
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"code": "E0002",
+	"severity": 8,
+	"message": "Method `write` not found on type `core::starknet::storage::storage_base::StorageBase::<core::starknet::storage::Mutable::<core::starknet::contract_address::ContractAddress>>`. Did you import the correct trait and impl?",
+	"startLineNumber": 127,
+	"startColumn": 29,
+	"endLineNumber": 127,
+	"endColumn": 34
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"code": "E0002",
+	"severity": 8,
+	"message": "Method `write` not found on type `core::starknet::storage::storage_base::StorageBase::<core::starknet::storage::Mutable::<core::bool>>`. Did you import the correct trait and impl?",
+	"startLineNumber": 128,
+	"startColumn": 26,
+	"endLineNumber": 128,
+	"endColumn": 31
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"code": "E0002",
+	"severity": 8,
+	"message": "Method `write` not found on type `core::starknet::storage::storage_base::StorageBase::<core::starknet::storage::Mutable::<core::starknet::contract_address::ContractAddress>>`. Did you import the correct trait and impl?",
+	"startLineNumber": 140,
+	"startColumn": 35,
+	"endLineNumber": 140,
+	"endColumn": 40
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"code": "E0002",
+	"severity": 8,
+	"message": "Method `write` not found on type `core::starknet::storage::storage_base::StorageBase::<core::starknet::storage::Mutable::<core::starknet::contract_address::ContractAddress>>`. Did you import the correct trait and impl?",
+	"startLineNumber": 141,
+	"startColumn": 29,
+	"endLineNumber": 141,
+	"endColumn": 34
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"code": "E0002",
+	"severity": 8,
+	"message": "Method `write` not found on type `core::starknet::storage::storage_base::StorageBase::<core::starknet::storage::Mutable::<core::bool>>`. Did you import the correct trait and impl?",
+	"startLineNumber": 142,
+	"startColumn": 30,
+	"endLineNumber": 142,
+	"endColumn": 35
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"severity": 8,
+	"message": "Invalid path.",
+	"startLineNumber": 156,
+	"startColumn": 54,
+	"endLineNumber": 156,
+	"endColumn": 79
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"severity": 8,
+	"message": "ref argument must be a mutable variable.",
+	"startLineNumber": 160,
+	"startColumn": 17,
+	"endLineNumber": 160,
+	"endColumn": 33
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"code": "E0002",
+	"severity": 8,
+	"message": "Method `write` not found on type `core::starknet::storage::storage_base::StorageBase::<core::starknet::storage::Mutable::<core::felt252>>`. Did you import the correct trait and impl?",
+	"startLineNumber": 165,
+	"startColumn": 30,
+	"endLineNumber": 165,
+	"endColumn": 35
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"severity": 8,
+	"message": "Invalid path.",
+	"startLineNumber": 181,
+	"startColumn": 43,
+	"endLineNumber": 181,
+	"endColumn": 68
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"code": "E0002",
+	"severity": 8,
+	"message": "Method `write` not found on type `core::starknet::storage::storage_base::StorageBase::<core::starknet::storage::Mutable::<<missing>>>`. Did you import the correct trait and impl?",
+	"startLineNumber": 184,
+	"startColumn": 30,
+	"endLineNumber": 184,
+	"endColumn": 35
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"severity": 8,
+	"message": "Wrong number of arguments. Expected 1, found: 2",
+	"startLineNumber": 198,
+	"startColumn": 30,
+	"endLineNumber": 198,
+	"endColumn": 49
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"code": "E0002",
+	"severity": 8,
+	"message": "Method `write` not found on type `core::starknet::storage::storage_base::StorageBase::<core::starknet::storage::Mutable::<<missing>>>`. Did you import the correct trait and impl?",
+	"startLineNumber": 211,
+	"startColumn": 32,
+	"endLineNumber": 211,
+	"endColumn": 37
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"code": "E0002",
+	"severity": 8,
+	"message": "Method `write` not found on type `core::starknet::storage::storage_base::StorageBase::<core::starknet::storage::Mutable::<core::felt252>>`. Did you import the correct trait and impl?",
+	"startLineNumber": 212,
+	"startColumn": 31,
+	"endLineNumber": 212,
+	"endColumn": 36
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"severity": 8,
+	"message": "Wrong number of arguments. Expected 1, found: 2",
+	"startLineNumber": 214,
+	"startColumn": 52,
+	"endLineNumber": 214,
+	"endColumn": 64
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"code": "E0002",
+	"severity": 8,
+	"message": "Method `write` not found on type `core::starknet::storage::storage_base::StorageBase::<core::starknet::storage::Mutable::<<missing>>>`. Did you import the correct trait and impl?",
+	"startLineNumber": 216,
+	"startColumn": 30,
+	"endLineNumber": 216,
+	"endColumn": 35
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"severity": 8,
+	"message": "Invalid path.",
+	"startLineNumber": 232,
+	"startColumn": 33,
+	"endLineNumber": 232,
+	"endColumn": 58
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"severity": 8,
+	"message": "Wrong number of arguments. Expected 1, found: 2",
+	"startLineNumber": 246,
+	"startColumn": 30,
+	"endLineNumber": 246,
+	"endColumn": 41
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"code": "E0001",
+	"severity": 4,
+	"message": "Unused variable. Consider ignoring by prefixing with `_`.",
+	"startLineNumber": 164,
+	"startColumn": 17,
+	"endLineNumber": 164,
+	"endColumn": 30
+},{
+	"resource": "/c:/Users/patri/Desktop/HACKERTHON/ENCODE HACKATHON/pulsetrade/starknetNethermind/my_project/src/lib.cairo",
+	"owner": "_generated_diagnostic_collection_name_#6",
+	"code": "E0001",
+	"severity": 4,
+	"message": "Unused variable. Consider ignoring by prefixing with `_`.",
+	"startLineNumber": 210,
+	"startColumn": 17,
+	"endLineNumber": 210,
+	"endColumn": 31
+}]
